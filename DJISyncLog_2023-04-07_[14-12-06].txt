@@ -1,0 +1,6 @@
+
+[2023-04-07 14:12:06.903]Remove Request Error ----  delete Record action succee :0
+[2023-04-07 14:12:07.256]Fetch Query Error ----  fetch UserInfo From Server success:1
+[2023-04-07 14:12:07.430]Fetch list Error ----  fetch flight record list succeess page:1
+[2023-04-07 14:12:07.613]Fetch list Error ----  fetch upload flight record list succeess page:0
+[2023-04-07 14:12:39.947]Download Error ----  DJIFlightRecord_2022-08-07_[13-21-03].txt saved file returns succeess:1, retryTimeLeft:0
