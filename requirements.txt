@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+stripe
+opencv-python
+tensorflow
+pytesseract
+requests
+aiofiles
+pillow
+python-multipart

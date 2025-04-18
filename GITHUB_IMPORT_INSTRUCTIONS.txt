@@ -1,0 +1,3 @@
+1. Go to github.com/new
+2. Create a repo
+3. Upload these files directly
